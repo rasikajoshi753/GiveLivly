@@ -88,27 +88,15 @@ class _ReceiveRequestScreenState extends State<ReceiveRequestScreen> {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       const Text(
-                        "Add Requested Donations",
+                        "All Requested Donations",
                         style: TextStyle(
                             color: ColorsDesign.darkBluishColor, fontSize: 24),
                       ),
                       const SizedBox(
                         width: 10,
                       ),
-                      
                     ],
                   ),
-                ),
-              ),
-              const SizedBox(
-                height: 20,
-              ),
-              const Padding(
-                padding: EdgeInsets.only(left: 20),
-                child: Text(
-                  "Your Active Donations",
-                  style: TextStyle(
-                      fontSize: 24, color: ColorsDesign.darkBluishColor),
                 ),
               ),
               const SizedBox(
