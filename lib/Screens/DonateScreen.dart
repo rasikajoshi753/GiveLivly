@@ -165,7 +165,7 @@ class _DonateScreenState extends State<DonateScreen> {
                                   ),
                                 ),
                                 Positioned(
-                                  top: 10,
+                                  top: 40,
                                   left: 20,
                                   child: Text(
                                     'Shyamlal Kaniyawalla',
@@ -175,17 +175,17 @@ class _DonateScreenState extends State<DonateScreen> {
                                   ),
                                 ),
                                 Positioned(
-                                  top: 10,
+                                  top: 50,
                                   left: 20,
                                   child: Text(
-                                    '201-202 Imagiera heights, Vesu, Surat',
+                                    '201-202 Imagiera heights,Vesu,Surat',
                                     style: TextStyle(
                                          fontSize: 18,
                                          color: ColorsDesign.darkBluishColor),
                                   ),
                                 ),
                                 Positioned(
-                                  top: 10,
+                                  top: 60,
                                   left: 20,
                                   child: Text(
                                     '9988776655',
@@ -196,7 +196,7 @@ class _DonateScreenState extends State<DonateScreen> {
                                 ),
                                 Positioned(
                                   top: 40,
-                                  right: 30,
+                                  right: 20,
                                   child: SizedBox(
                                     height: 100,
                                     width: 100,
@@ -280,7 +280,7 @@ class _DonateScreenState extends State<DonateScreen> {
                                   ),
                                 ),
                                 Positioned(
-                                  top: 10,
+                                  top: 40,
                                   left: 20,
                                   child: Text(
                                     'Shyamlal Kaniyawalla',
@@ -290,17 +290,17 @@ class _DonateScreenState extends State<DonateScreen> {
                                   ),
                                 ),
                                 Positioned(
-                                  top: 10,
+                                  top: 50,
                                   left: 20,
                                   child: Text(
-                                    '201-202 Imagiera heights, Vesu, Surat',
+                                    '201-202 Imagiera heights,Vesu,Surat',
                                     style: TextStyle(
                                          fontSize: 18,
                                          color: ColorsDesign.darkBluishColor),
                                   ),
                                 ),
                                 Positioned(
-                                  top: 10,
+                                  top: 60,
                                   left: 20,
                                   child: Text(
                                     '9988776655',
@@ -311,7 +311,7 @@ class _DonateScreenState extends State<DonateScreen> {
                                 ),
                                 Positioned(
                                   top: 40,
-                                  right: 30,
+                                  right: 20,
                                   child: SizedBox(
                                     height: 100,
                                     width: 100,
@@ -395,7 +395,7 @@ class _DonateScreenState extends State<DonateScreen> {
                                   ),
                                 ),
                                 Positioned(
-                                  top: 10,
+                                  top: 40,
                                   left: 20,
                                   child: Text(
                                     'Shyamlal Kaniyawalla',
@@ -405,17 +405,17 @@ class _DonateScreenState extends State<DonateScreen> {
                                   ),
                                 ),
                                 Positioned(
-                                  top: 10,
+                                  top: 50,
                                   left: 20,
                                   child: Text(
-                                    '201-202 Imagiera heights, Vesu, Surat',
+                                    '201-202 Imagiera heights,Vesu,Surat',
                                     style: TextStyle(
                                          fontSize: 18,
                                          color: ColorsDesign.darkBluishColor),
                                   ),
                                 ),
                                 Positioned(
-                                  top: 10,
+                                  top: 60,
                                   left: 20,
                                   child: Text(
                                     '9988776655',
@@ -426,7 +426,7 @@ class _DonateScreenState extends State<DonateScreen> {
                                 ),
                                 Positioned(
                                   top: 40,
-                                  right: 30,
+                                  right: 20,
                                   child: SizedBox(
                                     height: 100,
                                     width: 100,
