@@ -39,7 +39,7 @@ class _ReceiveScreenState extends State<ReceiveScreen> {
               width: size.width,
               child: const Center(
                 child: Text(
-                  "Donations Receive Requests",
+                  "Receive Requests",
                   style:
                       TextStyle(fontSize: 24, color: ColorsDesign.lightColor),
                 ),
