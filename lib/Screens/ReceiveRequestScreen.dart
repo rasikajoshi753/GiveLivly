@@ -34,18 +34,6 @@ class _ReceiveRequestScreenState extends State<ReceiveRequestScreen> {
                 ),
               ),
             ),
-            child: Container(
-              height: size.height * 0.06,
-              width: size.width,
-              child: const Center(
-                child: Text(
-                  "Donations Receive Requests",
-                  style:
-                      TextStyle(fontSize: 24, color: ColorsDesign.lightColor),
-                ),
-              ),
-            ),
-            onPressed: null,
           ),
         ),
         appBar: AppBar(
